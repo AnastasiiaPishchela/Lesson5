@@ -1,0 +1,6 @@
+C:\Users\leem0\Documents\test_avtomation_summer2019\DotNetTests\Lesson5\ClassLibraryCustomArray\bin\Debug\ClassLibraryCustomArray.dll
+C:\Users\leem0\Documents\test_avtomation_summer2019\DotNetTests\Lesson5\ClassLibraryCustomArray\bin\Debug\ClassLibraryCustomArray.pdb
+C:\Users\leem0\Documents\test_avtomation_summer2019\DotNetTests\Lesson5\ClassLibraryCustomArray\obj\Debug\ClassLibraryCustomArray.csprojAssemblyReference.cache
+C:\Users\leem0\Documents\test_avtomation_summer2019\DotNetTests\Lesson5\ClassLibraryCustomArray\obj\Debug\ClassLibraryCustomArray.csproj.CoreCompileInputs.cache
+C:\Users\leem0\Documents\test_avtomation_summer2019\DotNetTests\Lesson5\ClassLibraryCustomArray\obj\Debug\ClassLibraryCustomArray.dll
+C:\Users\leem0\Documents\test_avtomation_summer2019\DotNetTests\Lesson5\ClassLibraryCustomArray\obj\Debug\ClassLibraryCustomArray.pdb

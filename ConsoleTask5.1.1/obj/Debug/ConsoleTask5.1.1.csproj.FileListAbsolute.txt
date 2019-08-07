@@ -1,0 +1,10 @@
+C:\Users\leem0\Documents\test_avtomation_summer2019\DotNetTests\Lesson5\ConsoleTask5.1.1\bin\Debug\ConsoleTask5.1.1.exe.config
+C:\Users\leem0\Documents\test_avtomation_summer2019\DotNetTests\Lesson5\ConsoleTask5.1.1\bin\Debug\ConsoleTask5.1.1.exe
+C:\Users\leem0\Documents\test_avtomation_summer2019\DotNetTests\Lesson5\ConsoleTask5.1.1\bin\Debug\ConsoleTask5.1.1.pdb
+C:\Users\leem0\Documents\test_avtomation_summer2019\DotNetTests\Lesson5\ConsoleTask5.1.1\bin\Debug\ClassLibraryCustomArray.dll
+C:\Users\leem0\Documents\test_avtomation_summer2019\DotNetTests\Lesson5\ConsoleTask5.1.1\bin\Debug\ClassLibraryCustomArray.pdb
+C:\Users\leem0\Documents\test_avtomation_summer2019\DotNetTests\Lesson5\ConsoleTask5.1.1\obj\Debug\ConsoleTask5.1.1.csprojAssemblyReference.cache
+C:\Users\leem0\Documents\test_avtomation_summer2019\DotNetTests\Lesson5\ConsoleTask5.1.1\obj\Debug\ConsoleTask5.1.1.csproj.CoreCompileInputs.cache
+C:\Users\leem0\Documents\test_avtomation_summer2019\DotNetTests\Lesson5\ConsoleTask5.1.1\obj\Debug\ConsoleTask5.1.1.csproj.CopyComplete
+C:\Users\leem0\Documents\test_avtomation_summer2019\DotNetTests\Lesson5\ConsoleTask5.1.1\obj\Debug\ConsoleTask5.1.1.exe
+C:\Users\leem0\Documents\test_avtomation_summer2019\DotNetTests\Lesson5\ConsoleTask5.1.1\obj\Debug\ConsoleTask5.1.1.pdb
